@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kmrigendra
 - 👀 I’m interested in building app in React.
 - 🌱 I’m currently learning web security and CI/CD.
-- 💞️ I’m looking to collaborate in open source project.
+- 💞️ I’m looking to collaborate in open source projects.
 - 📫 How to reach me : mrigendrasinha@gmail.com
 
 <!---
